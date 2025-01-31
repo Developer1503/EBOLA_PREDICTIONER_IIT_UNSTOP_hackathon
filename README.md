@@ -6,5 +6,11 @@ This repository contains a complete machine learning pipeline designed to predic
 ## Current Date
 **Friday, January 31, 2025, 1 PM IST**
 
-## Code Implementation
 
+---
+
+### Instructions to Use:
+- Save this content into a file named `README.md` in your GitHub repository.
+- Ensure that any necessary dependencies are listed in a `requirements.txt` file for easy installation.
+
+This Markdown file provides a structured overview of your project along with the complete code implementation needed to understand and utilize your Death Prediction Model effectively!
